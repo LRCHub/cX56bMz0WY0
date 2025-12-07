@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Can't Stop Fallin' in Love",
+  "base_artist": "globe",
+  "createdAt": "2025-12-07T12:03:34.692315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can't Stop Fallin in Love",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/01_Can't_Stop_Fallin_in_Love_globe.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can't Stop Fallin' in Love",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/02_Can't_Stop_Fallin'_in_Love_JUJU.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "globe / Can't Stop Fallin' in Love",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/03_globe___Can't_Stop_Fallin'_in_Love_globe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Can't Stop Fallin' in Love",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/04_Can't_Stop_Fallin'_in_Love_globe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Can't Stop Fallin' in Love",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/05_Can't_Stop_Fallin'_in_Love_globe.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "globe / Can't Stop Fallin' in Love",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/06_globe___Can't_Stop_Fallin'_in_Love_globe.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Can't Stop Fallin' in Love",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/07_Can't_Stop_Fallin'_in_Love_globe.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can't Stop Fallin' in Love",
+      "artist": "Globe",
+      "has_synced": true,
+      "path": "select/08_Can't_Stop_Fallin'_in_Love_Globe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Can't Stop Fallin' In Love",
+      "artist": "Naoki",
+      "has_synced": false,
+      "path": "select/09_Can't_Stop_Fallin'_In_Love_Naoki.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Can’t Stop Fallin’ in Love",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/10_Can’t_Stop_Fallin’_in_Love_globe.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "cant stop fallin in love",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/11_cant_stop_fallin_in_love_globe.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can't Stop Fallin' in Love",
+      "artist": "グローブ GLOBE",
+      "has_synced": true,
+      "path": "select/12_Can't_Stop_Fallin'_in_Love_グローブ_GLOBE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Stop Fallin' in Love - Straight Run",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/13_Can't_Stop_Fallin'_in_Love_-_Straight_Run_globe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "CAN'T STOP FALLIN' IN LOVE (SPEED MIX)",
+      "artist": "NAOKI",
+      "has_synced": true,
+      "path": "select/14_CAN'T_STOP_FALLIN'_IN_LOVE_(SPEED_MIX)_NAOKI.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "CAN'T STOP FALLIN' IN LOVE",
+      "artist": "E-ROTIC",
+      "has_synced": true,
+      "path": "select/15_CAN'T_STOP_FALLIN'_IN_LOVE_E-ROTIC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Can't Stop Fallin' in Love",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/pl_01_Can't_Stop_Fallin'_in_Love_globe.txt"
+    }
+  ]
+}
